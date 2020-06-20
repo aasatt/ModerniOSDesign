@@ -15,17 +15,17 @@ https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/
 
 ## Layout
 
-<img src="./assets/SS1.PNG">
-<img src="./assets/SS2.PNG">
+<img src="./assets/SS1.PNG" width="500">
+<img src="./assets/SS2.PNG" width="500">
 
 ## Color:
 https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/color/
 > **Provide two versions of your tint color to make sure it looks good in both light and dark modes.** When you use a system color for your tint color, you get automatic support for high contrast
 
-<img src="./assets/SS3.PNG">
+<img src="./assets/SS3.PNG" width="500">
 
 ## Dynamic Type
-<img src="./assets/SS4.PNG">
+<img src="./assets/SS4.PNG" width="500">
 
 ## Video Player
 
@@ -33,7 +33,7 @@ https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/
 
 The system provided player has a lot of great things already built in. Why reinvent the wheel? **By having a custom player with custom controls, expect about 40+ hours of developer time.** Why not just use Apple's player which can be implemented in about 15 minutes? You even get awesome features like AirPlay and Picture in Picture mode to multitask:
 
-<img src="./assets/SS5.PNG">
+<img src="./assets/SS5.PNG" width="500">
 
 
 # Slopes App
