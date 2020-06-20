@@ -14,17 +14,18 @@ https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/
 > **Don’t let branding get in the way of great app design. Above all, make your app feel like an iOS app.** Ensure that it's intuitive, easy to navigate, easy to use, and focuses on content. Even if your app is available on other platforms, avoid diluting your design by focusing too much on consistent branding.
 
 ## Layout
-<img src="./assets/Screen Shot 2020-06-19 at 7.53.22 PM.PNG">
-<img src="./assets/Screen Shot 2020-06-19 at 7.56.23 PM.PNG">
+
+<img src="./assets/SS1.PNG">
+<img src="./assets/SS2.PNG">
 
 ## Color:
 https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/color/
 > **Provide two versions of your tint color to make sure it looks good in both light and dark modes.** When you use a system color for your tint color, you get automatic support for high contrast
 
-<img src="./assets/Screen Shot 2020-06-19 at 8.07.01 PM.PNG">
+<img src="./assets/SS3.PNG">
 
 ## Dynamic Type
-<img src="./assets/Screen Shot 2020-06-19 at 8.12.13 PM.PNG">
+<img src="./assets/SS4.PNG">
 
 ## Video Player
 
@@ -32,7 +33,7 @@ https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/
 
 The system provided player has a lot of great things already built in. Why reinvent the wheel? **By having a custom player with custom controls, expect about 40+ hours of developer time.** Why not just use Apple's player which can be implemented in about 15 minutes? You even get awesome features like AirPlay and Picture in Picture mode to multitask:
 
-<img src="./assets/Screen Shot 2020-06-19 at 8.14.16 PM.PNG">
+<img src="./assets/SS5.PNG">
 
 
 # Slopes App
@@ -54,6 +55,7 @@ The background of the header flows through all content. Because the background c
 <img src="./assets/IMG_4FBC65424CCE-1.jpeg" alt="drawing" width="300"/>
 
 **Alternate App Icons:**
+
 <img src="./assets/IMG_FB817EC9EB6F-1.jpeg" width="300"/>
 
 Other notes: 
